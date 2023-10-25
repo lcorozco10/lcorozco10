@@ -1,5 +1,6 @@
 <h1>Hey! Nice to see you.</h1>
 
+![CSahrp](https://img.shields.io/badge/csharp-007ACC?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
